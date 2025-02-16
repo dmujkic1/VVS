@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\taskcomplexityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\taskcomplexityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\deadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\deadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\ideadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\ideadlineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\priorityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\priorityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:models\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:models\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\itaskcomplexityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\itaskcomplexityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|c:\\users\\korisnik\\desktop\\vvs-projekatamar\\aplikacija za pra\u0107enje produktivnosti (to-do lista)\\services\\ipriorityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16FA3F4-4B87-4EBE-AEF5-07A31B34B5AA}|Aplikacija za pra\u0107enje produktivnosti (TO-DO lista).csproj|solutionrelative:services\\ipriorityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITaskComplexityService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskComplexityService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskComplexityService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskComplexityService.cs",
+              "RelativeToolTip": "Services\\ITaskComplexityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:33:58.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskComplexityService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskComplexityService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskComplexityService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskComplexityService.cs",
+              "RelativeToolTip": "Services\\TaskComplexityService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:32:52.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDeadlineService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\IDeadlineService.cs",
+              "RelativeDocumentMoniker": "Services\\IDeadlineService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\IDeadlineService.cs",
+              "RelativeToolTip": "Services\\IDeadlineService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:26:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeadlineService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\DeadlineService.cs",
+              "RelativeDocumentMoniker": "Services\\DeadlineService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\DeadlineService.cs",
+              "RelativeToolTip": "Services\\DeadlineService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:25:26.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IPriorityService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\IPriorityService.cs",
+              "RelativeDocumentMoniker": "Services\\IPriorityService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\IPriorityService.cs",
+              "RelativeToolTip": "Services\\IPriorityService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:21:59.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PriorityService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\PriorityService.cs",
+              "RelativeDocumentMoniker": "Services\\PriorityService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\PriorityService.cs",
+              "RelativeToolTip": "Services\\PriorityService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:21:37.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Priority.cs",
+              "RelativeDocumentMoniker": "Models\\Priority.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Priority.cs",
+              "RelativeToolTip": "Models\\Priority.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T08:20:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskService.cs",
+              "RelativeDocumentMoniker": "Services\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\ITaskService.cs",
+              "RelativeToolTip": "Services\\ITaskService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:03:55.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Services\\TaskService.cs",
+              "RelativeToolTip": "Services\\TaskService.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAswGQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:03:39.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Task.cs",
+              "RelativeDocumentMoniker": "Models\\Task.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Task.cs",
+              "RelativeToolTip": "Models\\Task.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwB8AAACfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:44:20.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:53:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:46:41.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za pra\u0107enje produktivnosti (TO-DO lista)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAAAAACcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:39:50.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

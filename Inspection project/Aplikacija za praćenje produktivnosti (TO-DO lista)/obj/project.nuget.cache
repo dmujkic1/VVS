@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cYE2kWKz71GqjI7xq/TFbGvNOjR7i0ZHOsuPdO/9WG95yIIKf/MaaoS0DbfQhv+0/4w7yPcnf1uF5dyVOQH9WA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Korisnik\\Desktop\\VVS-ProjekatAmar\\Aplikacija za praćenje produktivnosti (TO-DO lista)\\Aplikacija za praćenje produktivnosti (TO-DO lista).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Korisnik\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aplikacija za praćenje produktivnosti (TO-DO lista)/1.0.0": {
+        "runtime": {
+          "Aplikacija za praćenje produktivnosti (TO-DO lista).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplikacija za praćenje produktivnosti (TO-DO lista)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\bin\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).exe
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\bin\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).deps.json
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\bin\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).runtimeconfig.json
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\bin\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).dll
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\bin\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).pdb
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).dll
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\refint\Aplikacija za praćenje produktivnosti (TO-DO lista).dll
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).pdb
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\ref\Aplikacija za praćenje produktivnosti (TO-DO lista).dll
+C:\Users\Korisnik\Desktop\VVS-ProjekatAmar\Aplikacija za praćenje produktivnosti (TO-DO lista)\obj\Debug\net6.0\Aplikacija za praćenje produktivnosti (TO-DO lista).sourcelink.json
