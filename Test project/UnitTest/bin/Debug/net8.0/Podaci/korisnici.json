@@ -1,0 +1,69 @@
+[
+  {
+    "korisnickoIme": "Korisnik1",
+    "email": "test@example.com",
+    "lozinka": "password1",
+    "toDoLista": [
+      {
+        "opis": "Zadatak 1",
+        "kategorija": 0,
+        "status": 3,
+        "prioritet": 0,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-11-28T00:53:46.2253605+01:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Zadatak 2",
+        "kategorija": 0,
+        "status": 0,
+        "prioritet": 2,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-11-30T00:53:46.2253641+01:00",
+        "vrijemeZavrsetka": "2024-12-01T00:53:46.2253643+01:00"
+      },
+      {
+        "opis": "Zadatak 3",
+        "kategorija": 2,
+        "status": 1,
+        "prioritet": 1,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-12-02T00:53:46.2253649+01:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Novi zadatak1",
+        "kategorija": 1,
+        "status": 3,
+        "prioritet": 1,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-11-30T00:53:46.2253899+01:00",
+        "vrijemeZavrsetka": null
+      },
+      {
+        "opis": "Novi zadatak2",
+        "kategorija": 2,
+        "status": 3,
+        "prioritet": 2,
+        "vrijemePocetka": null,
+        "rokZavrsetka": "2024-11-27T00:53:46.2253904+01:00",
+        "vrijemeZavrsetka": null
+      }
+    ],
+    "listaPodsjetnika": []
+  },
+  {
+    "korisnickoIme": "Korisnik2",
+    "email": "test@example.com",
+    "lozinka": "password2",
+    "toDoLista": [],
+    "listaPodsjetnika": []
+  },
+  {
+    "korisnickoIme": "Korisnik1",
+    "email": "test@example.com",
+    "lozinka": "password1",
+    "toDoLista": [],
+    "listaPodsjetnika": []
+  }
+]

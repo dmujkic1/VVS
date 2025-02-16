@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\autentifikacijaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\autentifikacijaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\filtriranjezadatakaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\filtriranjezadatakaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\analitikaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\analitikaservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\zadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\zadatakservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\servisi\\korisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:servisi\\korisnikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD128837-DD58-401E-8CB6-C9CD73019C72}|..\\UnitTest\\UnitTest.csproj|c:\\users\\benja\\desktop\\vvs-projekat\\unittest\\korisnikservistest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD128837-DD58-401E-8CB6-C9CD73019C72}|..\\UnitTest\\UnitTest.csproj|c:\\users\\benja\\desktop\\vvs-projekat\\unittest\\izvjestajtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|c:\\users\\benja\\desktop\\vvs-projekat\\konzolna_aplikacija(todo_lista)\\klase\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}|Konzolna_aplikacija(TODO_lista).csproj|solutionrelative:klase\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 273,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ZadatakServis.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\ZadatakServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\ZadatakServis.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\ZadatakServis.cs",
+              "RelativeToolTip": "Servisi\\ZadatakServis.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:00:30.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KorisnikServisTest.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\UnitTest\\KorisnikServisTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\KorisnikServisTest.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\UnitTest\\KorisnikServisTest.cs",
+              "RelativeToolTip": "..\\UnitTest\\KorisnikServisTest.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:58:41.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IzvjestajTest.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\UnitTest\\IzvjestajTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTest\\IzvjestajTest.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\UnitTest\\IzvjestajTest.cs",
+              "RelativeToolTip": "..\\UnitTest\\IzvjestajTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:58:41.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KorisnikServis.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\KorisnikServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\KorisnikServis.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\KorisnikServis.cs",
+              "RelativeToolTip": "Servisi\\KorisnikServis.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAYwGcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T22:37:41.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalitikaServis.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\AnalitikaServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\AnalitikaServis.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\AnalitikaServis.cs",
+              "RelativeToolTip": "Servisi\\AnalitikaServis.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:59:37.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Korisnik.cs",
+              "RelativeDocumentMoniker": "Klase\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Klase\\Korisnik.cs",
+              "RelativeToolTip": "Klase\\Korisnik.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwCQAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T22:32:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FiltriranjeZadatakaServis.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\FiltriranjeZadatakaServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\FiltriranjeZadatakaServis.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\FiltriranjeZadatakaServis.cs",
+              "RelativeToolTip": "Servisi\\FiltriranjeZadatakaServis.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:09:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutentifikacijaServis.cs",
+              "DocumentMoniker": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\AutentifikacijaServis.cs",
+              "RelativeDocumentMoniker": "Servisi\\AutentifikacijaServis.cs",
+              "ToolTip": "C:\\Users\\benja\\Desktop\\VVS-projekat\\Konzolna_aplikacija(TODO_lista)\\Servisi\\AutentifikacijaServis.cs",
+              "RelativeToolTip": "Servisi\\AutentifikacijaServis.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T23:06:21.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 127,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Konzolna_aplikacija(TODO_lista)", "Konzolna_aplikacija(TODO_lista).csproj", "{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{AD128837-DD58-401E-8CB6-C9CD73019C72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED722112-A3BC-45A5-94B9-9A2F1FBD2966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD128837-DD58-401E-8CB6-C9CD73019C72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD128837-DD58-401E-8CB6-C9CD73019C72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD128837-DD58-401E-8CB6-C9CD73019C72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD128837-DD58-401E-8CB6-C9CD73019C72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16D3486B-8212-4DE4-8162-DC067BE2D355}
+	EndGlobalSection
+EndGlobal

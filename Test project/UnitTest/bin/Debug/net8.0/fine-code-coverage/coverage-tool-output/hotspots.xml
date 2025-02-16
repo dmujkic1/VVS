@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotspots>
+  <Hotspot>
+    <Assembly>Konzolna_aplikacija(TODO_lista)</Assembly>
+    <Class>Konzolna_aplikacija_TODO_lista_.Program</Class>
+    <MethodName>Main(...)</MethodName>
+    <ShortName />
+    <Line>16</Line>
+    <FileIndex>0</FileIndex>
+    <Metrics>
+      <Metric>
+        <Name>Cyclomatic complexity</Name>
+        <Exceeded>true</Exceeded>
+        <Value>84</Value>
+      </Metric>
+    </Metrics>
+  </Hotspot>
+</Hotspots>
